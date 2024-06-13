@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://just-falllol.github.io/sitemap.xml
